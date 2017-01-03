@@ -1,0 +1,11 @@
+Referencias
+https://discussions.udacity.com/t/starting-the-final-project/179090/6
+http://stackoverflow.com/questions/29103686/sklearn-knn-prediction-error-float-argument-must-be-a-string-or-a-number-not
+http://stackoverflow.com/questions/22984335/recovering-features-names-of-explained-variance-ratio-in-pca-with-sklearn
+http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html
+http://scikit-learn.org/stable/modules/pipeline.html
+http://scikit-learn.org/stable/auto_examples/plot_digits_pipe.html#sphx-glr-auto-examples-plot-digits-pipe-py
+https://discussions.udacity.com/t/recall-undefined-b-c-no-true-positive-predictions-using-rbf-kernel/157936/7
+https://discussions.udacity.com/t/final-project-precision-and-recall/137020/34
+http://scikit-learn.org/stable/auto_examples/feature_stacker.html#sphx-glr-auto-examples-feature-stacker-py
+http://pythoncentral.io/how-to-sort-python-dictionaries-by-key-or-value/
